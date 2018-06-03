@@ -1,0 +1,5 @@
+language: r
+sudo: false
+
+r_github_packages:
+ - maribelacosta/dief
